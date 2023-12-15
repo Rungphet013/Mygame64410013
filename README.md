@@ -1,5 +1,5 @@
 # Mygame64410013
-<img scr = "/pic.png">
+<img src = "/pic.png">
 
 GAME
  
